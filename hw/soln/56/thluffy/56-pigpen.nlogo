@@ -14,11 +14,9 @@ end
 
 
 to wiggle
- ; every .1 [
     lt random 15
     rt random 15
     fd 1
-  ;]
 end
 
 
