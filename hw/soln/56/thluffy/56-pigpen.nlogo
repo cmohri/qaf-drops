@@ -1,3 +1,8 @@
+;Clyde "Thluffy" Sinclair
+;IntroCS pd0
+;HW56 -- updating patch attributes over time to simulate "fading halo" effect
+;2019-01-03r
+
 patches-own [chem]
 
 to setup
